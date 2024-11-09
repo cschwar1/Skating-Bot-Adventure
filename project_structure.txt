@@ -1,0 +1,26 @@
+skating_bot_adventure/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── game/
+│   │   ├── __init__.py
+│   │   ├── game.py
+│   │   ├── robot.py
+│   │   ├── obstacles.py
+│   │   └── levels.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   └── constants.py
+│   └── assets/
+│       ├── images/
+│       └── sounds/
+├── tests/
+│   ├── __init__.py
+│   ├── test_robot.py
+│   ├── test_obstacles.py
+│   └── test_levels.py
+├── docs/
+│   └── developer_guide.md
+├── README.md
+├── requirements.txt
+└── .gitignore
